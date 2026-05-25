@@ -14,7 +14,7 @@ Interesse em Front-end, Back-end e aplicações Full Stack
 
 ### - Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
 </p>
 
 ### - Frameworks e Bibliotecas
@@ -29,7 +29,7 @@ Interesse em Front-end, Back-end e aplicações Full Stack
 
 ### - Ferramentas
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
 </p>
 
 
