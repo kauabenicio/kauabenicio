@@ -74,7 +74,7 @@ Interesse em Front-end, Back-end e aplicações Full Stack
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-benicio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
